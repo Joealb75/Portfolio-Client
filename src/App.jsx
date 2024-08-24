@@ -1,12 +1,17 @@
 import { HomeVideoAndNav } from "./home/HomeVideoAndNav.jsx"
+import { HomeWorkExperience } from "./home/HomeWorkExperience.jsx"
 
 export const App = () => {
 
   return(
     <>
-      <HomeVideoAndNav />
+      <section>
+        <HomeVideoAndNav />
+        <HomeWorkExperience />
+
+      </section>
+    
     </>
   )
-  
 }
 
