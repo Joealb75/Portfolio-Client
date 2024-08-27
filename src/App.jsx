@@ -1,6 +1,5 @@
 import { HomeVideoAndNav } from "./home/HomeVideoAndNav.jsx"
 import { HomeWorkExperience } from "./home/HomeWorkExperience.jsx"
-
 export const App = () => {
 
   return(
@@ -8,7 +7,6 @@ export const App = () => {
       <section>
         <HomeVideoAndNav />
         <HomeWorkExperience />
-
       </section>
     
     </>
