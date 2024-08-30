@@ -8,92 +8,92 @@
       "images": [
         {
         "id": 1, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/Home1.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/Home1.svg", 
         "ImageComment":"This is the websites home page, on the right is a slide show of images from the business, I coordinated with my friend for the photoshoot."
       },
         {
         "id": 2, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/Home2.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/Home2.svg", 
         "ImageComment":"2nd part of the home page, shows the latest article posted and business contact details."
       },
         {
         "id": 3, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/AboutUs1.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/AboutUs1.svg", 
         "ImageComment":"About section for the business."
       },
         {
         "id": 4, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/AboutUs2.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/AboutUs2.svg", 
         "ImageComment":"2nd part of the about section."
       },
         {
         "id": 5, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/AboutMe.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/AboutMe.svg", 
         "ImageComment":"About Me section that is created for every provider, it is sourced from their profile that the provider can edit at any time."
       },
         {
         "id": 6, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/PrimaryCare1.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/PrimaryCare1.svg", 
         "ImageComment":"This is their Primary Care service page."
       },
         {
         "id": 7, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/PrimaryCare2.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/PrimaryCare2.svg", 
         "ImageComment":"2nd part of the Primary Care page with a slide show of customer reviews."
       },
         {
         "id": 8, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/ArticlesHome.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/ArticlesHome.svg", 
         "ImageComment":"This is the Articles home page where the user can filter articles by their tags. Newest articles display at the top of the list."
       },
         {
         "id": 9, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/ViewArticle.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/ViewArticle.svg", 
         "ImageComment":"Viewing an article, the card under the image is also a link that will take the user to the writers 'About Me' page."
       },
         {
         "id": 10, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/Dash1.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/Dash1.svg", 
         "ImageComment":"This is the Admin dashboard, (Non-admin providers can only see the consultations they are assigned to, they also have various other restrictions) the admin can see all consultations and at a quick glance see the status of the other providers consultations."
       },
         {
         "id": 11, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/Dash2.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/Dash2.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 12, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/UserConsult.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/UserConsult.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 13, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/EditConsult1.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/EditConsult1.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 14, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/EditConsult2.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/EditConsult2.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 15, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/EditProfile.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/EditProfile.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 16, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/CreateArticle.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/CreateArticle.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 17, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/LoFi-Wireframe.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/LoFi-Wireframe.svg", 
         "ImageComment":"Example"
       },
         {
         "id": 18, 
-        "URL": "./src/assets/port-projects-all/optimum-photos/ERD.svg", 
+        "url": "./src/assets/port-projects-all/optimum-photos/ERD.svg", 
         "ImageComment":"Example"
       }
       ],
