@@ -8,7 +8,7 @@ export const HomeWorkExperience = () => {
       <section className="bg-[#1E2630] flex pl-20 pt-10"> 
           <GrowingMySkills />
       </section>
-      <section className="bg-[#1E2630] flex pl-20 pt-10">
+      <section className="bg-[#1E2630] flex pl-20 pt-10 pb-20">
         <MyWork />
       </section>
 

@@ -10,7 +10,7 @@ export default {
         customRed: '#B53F74'
       },
       animation:{
-        "loop-scroll": "loop-scroll 30s linear infinite"
+        "loop-scroll": "loop-scroll 20s linear infinite"
       },
       keyframes:{
         "loop-scroll":{
