@@ -1,6 +1,8 @@
 import NameAndTag from "/src/assets/bckImageHome.svg"
+import { GrowingMySkills } from "./GrowingMySkills.jsx"
+import { MyWork } from "./MyWork.jsx"
 
-export const HomeVideoAndNav = () => {
+export const HomeAndNav = () => {
     return (
         <>
           <section className="relative w-full h-screen">
@@ -28,6 +30,13 @@ export const HomeVideoAndNav = () => {
                 </div>
               </nav>
             </div>
+          </section>
+
+          <section className="bg-[#1E2630] pl-20 pt-10">
+            <GrowingMySkills/>
+          </section>
+          <section className="bg-[#1E2630] pl-20 pt-10">
+            <MyWork/>
           </section>
         </>
     )

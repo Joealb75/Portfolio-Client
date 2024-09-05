@@ -9,7 +9,7 @@ export const GrowingMySkills = () =>{
           </p>
       </div>
 
-      <div className="w-2/3 flex overflow-hidden space-x-2">
+      <div className="w-full flex overflow-hidden space-x-2">
           <div className="flex animate-loop-scroll">
               <img src="/src/assets/port-lang/JS.svg" alt="JavaScript" className="max-w-none max-h-60" />
               <img src="/src/assets/port-lang/React.svg" alt="React" className="max-w-none max-h-60" />
